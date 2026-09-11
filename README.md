@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# KTU Jathakam 🎯
 
 
 ## Basic Details
@@ -15,21 +15,21 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+KTU Jathakam is a playful Malayalam-style academic horoscope generator for students living through the mystical experience of semester exams. Enter a roll number and let a friendly poojari reveal a completely random, suspiciously relatable KTU prediction.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Students have timetables, attendance portals, question papers, and group chats—but no celestial explanation for why DBMS still feels cursed.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We consult the highly advanced `random()` universe. The site turns a roll number into a Malayalam KTU jathakam, complete with subject doshams, poojari advice, and ridiculous but emotionally accurate remedies such as library vratham and past-paper pradakshinam.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, JavaScript
+- Node.js (local development server)
+- Google Fonts: Manjari, Playfair Display, and DM Mono
+- AI-generated poojari portrait asset
 
 For Hardware:
 - [List main components]
@@ -39,10 +39,16 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+npm install
+```
 
 # Run
-[commands]
+```bash
+npm run dev
+```
+
+Then open `http://localhost:5173` in a browser.
 
 ### Project Documentation
 For Software:
@@ -98,6 +104,5 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
-
 
 
