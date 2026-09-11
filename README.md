@@ -50,6 +50,15 @@ npm run dev
 
 Then open `http://localhost:5173` in a browser.
 
+### Current Features
+- Student ID Jathakam: roll-number-based Malayalam horoscope results with four random KTU doshams.
+- College Jathakam: search a college name to generate a separate college report.
+- SNMIMT Maliankara gets its own fictional Maliyankara/Moothakunnam astrology joke pool.
+- Other colleges use a separate generic KTU comedy pool and never receive SNMIMT-specific references.
+- Results include blinking green, amber, purple, and red cosmic-danger cards.
+
+All readings are fictional random comedy and are not official statements about any college.
+
 ### Project Documentation
 For Software:
 
@@ -104,5 +113,4 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
-
 
