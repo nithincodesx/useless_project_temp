@@ -107,9 +107,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [NITHINKRISHNA T D](https://github.com/nithincodesx): KTU Jathakam experience, survival features, and final-v1 integration.
+- [Nostam7](https://github.com/nostam7): Project contributor.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
