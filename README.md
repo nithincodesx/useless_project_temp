@@ -61,40 +61,36 @@ All readings are fictional random comedy and are not official statements about a
 ### Release Status
 **Final v1** — ready to run locally with `npm run dev`.
 
-### Project Documentation
-For Software:
+## Live Demo
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Try the final v1 deployment here: **[KTU Jathakam — Live Demo](https://useless-project-temp-sandy.vercel.app/)**
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+## Screenshots
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15NB1yWePrig6qKtxFAVBvhkG_u9uhhh7" alt="KTU Jathakam home screen" width="48%">
+  <img src="https://drive.google.com/uc?export=view&id=1RCLGmbwJU3hbmHpFjFD20ZlLUc3CQayS" alt="Student jathakam form" width="48%">
+</p>
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1UQgCLlJLt-z4piKA-xh7hui7CleJLqts" alt="Student horoscope result" width="48%">
+  <img src="https://drive.google.com/uc?export=view&id=1ETpdiomccSlU1p1OPmt8Z9_ub-GhnON0" alt="KTU survival features" width="48%">
+</p>
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1lltCD8XtQVziLFo7MyyGIW7i95RvlPXy" alt="Cosmic Swami calling animation" width="48%">
+  <img src="https://drive.google.com/uc?export=view&id=14VM8stTtSs_8VlwfBGicISeqTUJ87peD" alt="Academic roast card" width="48%">
+</p>
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+All screenshots are available in the [shared Drive folder](https://drive.google.com/drive/folders/1uGMA-Vpg6KRFxS39IXdZCzDVSBK9XzLA).
 
-![Final](Add photo of final product here)
-*Explain the final build*
+## How It Works
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+1. Enter a register number, semester, branch, and supply information.
+2. The app generates a deliberately fictional Malayalam academic horoscope.
+3. Explore college astrology, the branch scanner, roast cards, attendance rituals, and the Cosmic Swami hotline.
 
-# Additional Demos
-[Add any extra demo materials/links]
+> This project is comedy. It does not provide academic, astrological, or college advice.
 
 ## Team Contributions
 - [NITHINKRISHNA T D](https://github.com/nithincodesx): KTU Jathakam experience, survival features, and final-v1 integration.
