@@ -6,6 +6,23 @@
 
 > **Final v1** — a fully fictional KTU survival universe. Built for laughs, not academic advice.
 
+## ✨ Welcome to the Cosmic Semester
+
+<p align="center">
+  🔮 <b>Enter your details</b> &nbsp;→&nbsp; 🌙 <b>Receive your jathakam</b> &nbsp;→&nbsp; 📞 <b>Call Cosmic Swami</b> &nbsp;→&nbsp; 😂 <b>Blame the planets</b>
+</p>
+
+> 🪐 **Student note:** Every prediction, roast, ritual, and cosmic emergency in this project is random comedy. Your actual marks are still under the control of KTU, attendance, and last-minute studying.
+
+### 🌟 Super-Quick Guide
+
+- 🧿 **Student Jathakam** — enter your register number, semester, branch, and supply count for a fictional academic horoscope.
+- 🏫 **College Jathakam** — see what the stars “know” about a college.
+- 🔮 **Branch Scanner** — choose CSE, ECE, Mechanical, Civil, or EEE for a branch-specific roast.
+- 📞 **Cosmic Swami** — take a five-step call through the Milky Way and wait for the universe to disconnect.
+- 🪪 **Roast Card** — generate a FIFA-style academic player card for peak semester drama.
+- 🪔 **Attendance Ritual** — perform a tiny, entirely unscientific ritual for your attendance aura.
+
 
 ## Basic Details
 ### Team Name: Sixth Element
