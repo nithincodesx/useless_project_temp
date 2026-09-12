@@ -65,6 +65,8 @@ All readings are fictional random comedy and are not official statements about a
 
 Try the final v1 deployment here: **[KTU Jathakam — Live Demo](https://useless-project-temp-sandy.vercel.app/)**
 
+Watch the walkthrough: **[KTU Jathakam Demo Video](https://drive.google.com/file/d/1Ga563cxp3ZVecP6MI3dlQUfAijGPuxAt/view?usp=drive_link)**
+
 ## Screenshots
 
 <p align="center">
