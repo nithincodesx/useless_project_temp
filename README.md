@@ -4,6 +4,8 @@
 
 # KTU Jathakam 🎯
 
+> **Final v1** — a fully fictional KTU survival universe. Built for laughs, not academic advice.
+
 
 ## Basic Details
 ### Team Name: Sixth Element
@@ -51,8 +53,14 @@ Then open `http://localhost:5173` in a browser.
 - SNMIMT Maliankara gets its own fictional Maliyankara/Moothakunnam astrology joke pool.
 - Other colleges use a separate generic KTU comedy pool and never receive SNMIMT-specific references.
 - Results include blinking green, amber, purple, and red cosmic-danger cards.
+- KTU Survival Features: branch-only astrology pools with 10 distinct roasts each for CSE, ECE, Mechanical, Civil, and EEE.
+- Cosmic Swami hotline: a five-step animated inter-universe call that ends with a random cosmic disconnection.
+- FIFA-style academic roast cards and attendance rituals.
 
 All readings are fictional random comedy and are not official statements about any college.
+
+### Release Status
+**Final v1** — ready to run locally with `npm run dev`.
 
 ### Project Documentation
 For Software:
@@ -108,4 +116,3 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
-
