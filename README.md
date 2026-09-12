@@ -6,13 +6,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Sixth Element
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: ADHWAIDH KRISHNA - SNMIMT,MALIYANKARA
+- Member 2: NITHINKRISHNA T D - SNMIMT,MALIYANKARA
+
 
 ### Project Description
 KTU Jathakam is a playful Malayalam-style academic horoscope generator for students living through the mystical experience of semester exams. Enter a roll number and let a friendly poojari reveal a completely random, suspiciously relatable KTU prediction.
@@ -30,11 +30,6 @@ For Software:
 - Node.js (local development server)
 - Google Fonts: Manjari, Playfair Display, and DM Mono
 - AI-generated poojari portrait asset
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
